@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Muzaker, a frontend developer with a passion for learning innovative coding techniques and solving complex problems
+## Hi there 👨‍💻
+
+`I'm Muzaker, a frontend developer with a passion for learning innovative coding techniques and solving complex problems.`
 <!--
 **1995muzaker/1995muzaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
